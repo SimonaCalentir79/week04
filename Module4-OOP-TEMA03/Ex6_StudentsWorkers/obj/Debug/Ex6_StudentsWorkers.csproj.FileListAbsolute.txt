@@ -1,0 +1,10 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\bin\Debug\Ex6_StudentsWorkers.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\bin\Debug\Ex6_StudentsWorkers.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\bin\Debug\Ex6_StudentsWorkers.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\bin\Debug\Ex6_Models.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\bin\Debug\Ex6_Models.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\obj\Debug\Ex6_StudentsWorkers.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\obj\Debug\Ex6_StudentsWorkers.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\obj\Debug\Ex6_StudentsWorkers.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\obj\Debug\Ex6_StudentsWorkers.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex6_StudentsWorkers\obj\Debug\Ex6_StudentsWorkers.pdb

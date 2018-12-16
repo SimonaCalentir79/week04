@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\bin\Debug\LibraryModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\bin\Debug\LibraryModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\obj\Debug\LibraryModels(upgraded).csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\obj\Debug\LibraryModels(upgraded).csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\obj\Debug\LibraryModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\LibraryModels\obj\Debug\LibraryModels.pdb

@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\obj\Debug\Ex7_Models.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\bin\Debug\Ex7_Models.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\bin\Debug\Ex7_Models.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\obj\Debug\Ex7_Models.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\obj\Debug\Ex7_Models.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_Models\obj\Debug\Ex7_Models.pdb

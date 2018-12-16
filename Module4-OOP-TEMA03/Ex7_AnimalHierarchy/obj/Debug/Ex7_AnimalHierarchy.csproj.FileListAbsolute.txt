@@ -1,0 +1,10 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\bin\Debug\Ex7_AnimalHierarchy.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\bin\Debug\Ex7_AnimalHierarchy.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\bin\Debug\Ex7_AnimalHierarchy.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\bin\Debug\Ex7_Models.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\bin\Debug\Ex7_Models.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\obj\Debug\Ex7_AnimalHierarchy.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\obj\Debug\Ex7_AnimalHierarchy.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\obj\Debug\Ex7_AnimalHierarchy.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\obj\Debug\Ex7_AnimalHierarchy.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week04\Module4-OOP-TEMA03\Ex7_AnimalHierarchy\obj\Debug\Ex7_AnimalHierarchy.pdb
