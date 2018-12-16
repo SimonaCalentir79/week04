@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp(recap)", "Module4-OOP-TEMA03\PizzaApp(recap).csproj", "{D6BCB828-00D9-499D-900E-BB124FFC48E2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaModels(recap)", "PizzaModels(recap)\PizzaModels(recap).csproj", "{D7AFFBCB-6A5A-4D2B-9A3B-3274F73CDF2A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass+Interface(recap)", "AbstractClass+Interface(recap)\AbstractClass+Interface(recap).csproj", "{5857DB6D-3247-4BAD-B370-20EED2C644C7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApp(upgraded)", "LibraryApp(upgraded)\LibraryApp(upgraded).csproj", "{C9408414-3BD1-4045-8EC8-278F5A107FC1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryModels(upgraded)", "LibraryModels\LibraryModels(upgraded).csproj", "{4AD080D6-6BBE-40F6-9B5C-71C30792F413}"
@@ -27,18 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6BCB828-00D9-499D-900E-BB124FFC48E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6BCB828-00D9-499D-900E-BB124FFC48E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6BCB828-00D9-499D-900E-BB124FFC48E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6BCB828-00D9-499D-900E-BB124FFC48E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7AFFBCB-6A5A-4D2B-9A3B-3274F73CDF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7AFFBCB-6A5A-4D2B-9A3B-3274F73CDF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7AFFBCB-6A5A-4D2B-9A3B-3274F73CDF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7AFFBCB-6A5A-4D2B-9A3B-3274F73CDF2A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5857DB6D-3247-4BAD-B370-20EED2C644C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5857DB6D-3247-4BAD-B370-20EED2C644C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5857DB6D-3247-4BAD-B370-20EED2C644C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5857DB6D-3247-4BAD-B370-20EED2C644C7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C9408414-3BD1-4045-8EC8-278F5A107FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C9408414-3BD1-4045-8EC8-278F5A107FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9408414-3BD1-4045-8EC8-278F5A107FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
